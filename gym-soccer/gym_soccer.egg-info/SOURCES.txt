@@ -1,0 +1,5 @@
+gym_soccer.egg-info/PKG-INFO
+gym_soccer.egg-info/SOURCES.txt
+gym_soccer.egg-info/dependency_links.txt
+gym_soccer.egg-info/requires.txt
+gym_soccer.egg-info/top_level.txt
